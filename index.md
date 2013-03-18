@@ -31,6 +31,27 @@ Goal
 
 ### Strategy
 
+### Alignment with Code for America Strategic Outcomes
+
+<table>
+  <tr>
+    <td>Governments leveraging technology more effectively</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Citizens and community groups solving civic issues</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>Cities collaborating to work better</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Civic apps built on linked, open data</td>
+    <td>✓</td>
+  </tr>
+</table>
+
 Structure
 ---------
 
