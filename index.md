@@ -52,6 +52,27 @@ Goal
   </tr>
 </table>
 
+### Alignment with Code for America Metrics
+
+<table>
+  <tr>
+    <td>Structural changes in government</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Reusing civic apps</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>Opening civic data</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>Active brigade members</td>
+    <td>✓</td>
+  </tr>
+</table>
+
 Structure
 ---------
 
