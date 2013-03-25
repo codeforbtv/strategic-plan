@@ -33,7 +33,7 @@ There are many civic organizations in need of coding and design capacity. While 
 
 ### Values
 
-Vermonters value participatory government and civic engagement as manifest in traditions such as Town Meeting Day. We believe that by working together we can create and sustain civic software and infrastructure that will improve our communities. We recognize the value of sharing both our tools and our data allowing others to build on our work.
+Vermonters value participatory government and civic engagement as manifest in traditions such as Town Meeting Day. Code for BTV believes that by working together we can create and sustain civic software and infrastructure that will improve our communities. Code for BTV recognizes the value of sharing both our tools and our data allowing others to build on our work.
 
 ### Mission
 
