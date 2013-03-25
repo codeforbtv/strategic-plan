@@ -3,8 +3,10 @@ Code for BTV, A Code for America Brigade
 
 One Year Strategic Plan
 
-Burlington, Vermont
--------------------
+Burlington, Vermont (metropolitan area)
+---------------------------------------
+
+Chittenden, Franklin, and Grand Isle Counties
 
 ### Contact Information
 
