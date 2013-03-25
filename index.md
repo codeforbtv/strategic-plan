@@ -31,7 +31,7 @@ The first year goal of Code for BTV is to facilitate sustainable collaboration o
 
 ### Mission
 
-### Strategy
+The mission of Code for BTV is to develop, deploy, and maintain modern civic software and infrastructure for Burlington, Vermont.
 
 ### Alignment with Code for America Strategic Outcomes
 
