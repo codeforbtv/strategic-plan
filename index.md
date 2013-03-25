@@ -25,7 +25,7 @@ TBD
 Goal
 ----
 
-The first year goal of Code for BTV is to facilitate sustainable collaboration on civic software between coders, designers, and civic organizations.
+The first year goal of Code for BTV is to facilitate sustainable collaboration on civic software between coders, designers, and civic organizations. Code for BTV will develop a pipeline of civic organizations in need of civic software, as well as a pipeline of coders and designers able to develop, deploy, and maintain civic software and infrastructure.
 
 ### Vision
 
