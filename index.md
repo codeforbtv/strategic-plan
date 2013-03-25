@@ -104,8 +104,12 @@ The goal is to recruit a total of seven Code for BTV Steering Committee members.
 
 ### Partners
 
+Initial Code for BTV partners include:
+
 * Big Heavy World
 * Found Line
+
+New partners will be brought on at a pace that allows for the development of sustainable collaborations.
 
 Schedule
 --------
