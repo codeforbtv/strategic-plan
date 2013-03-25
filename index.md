@@ -94,9 +94,13 @@ The Brigade Captains for Code for BTV are Jason Pelletier and Bradley Holt.
 
 ### Steering Committee
 
+The initial Code for BTV Steering Committee members are:
+
 * James Lockridge
 * Jason Pelletier
 * Bradley Holt
+
+The goal is to recruit a total of seven Code for BTV Steering Committee members.
 
 ### Partners
 
