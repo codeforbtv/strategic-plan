@@ -134,3 +134,10 @@ Outcomes
 --------
 
 ### Metrics
+
+Code for BTV will measure its success using the following metrics:
+
+* Number of active brigade members.
+* Number of civic apps deployed.
+* Number of civic organizations served.
+* Number of open data sources created.
