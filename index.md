@@ -128,6 +128,8 @@ Code for BTV will launch with the [National Day of Civic Hacking](http://hackfor
 
 Big Heavy World's apps will be built using HTML5 and other modern web technologies and will make its Vermont music industry directories, interviews, and audio and visual content readily accessible to mobile and accessibility devices. Each component of the web site will be reconstructed as open-source software, enabling other communities and municipal and state governments to leverage these tools for their own music offices based on the Big Heavy World programming. The bigheavyworld.com site was launched first in 1996 and rebuilt in 2005. The new version will make it functional well into the future and create opportunities to employ emerging and future web technologies to serve Vermont music.
 
+Big Heavy World has had a high level of success in harnessing the power of volunteers. However, developing and maintaining its web site through volunteers has proven to be a challenge. A new approach is needed that focuses on long term sustainability. Code for BTV's focus on long term sustainability combined with Big Heavy World's success in recruiting volunteers represents a new approach to addressing this issue of maintainability.
+
 #### Fall Campaign
 
 TDB
