@@ -1,3 +1,8 @@
+---
+layout: default
+title: Code for BTV, A Code for America Brigade
+---
+
 Code for BTV, A Code for America Brigade
 ========================================
 
