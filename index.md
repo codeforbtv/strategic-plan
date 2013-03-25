@@ -8,9 +8,9 @@ Burlington, Vermont
 
 ### Contact Information
 
-#### Brigade Captain
+#### Brigade Captains
 
-TBD
+Jason Pelletier and Bradley Holt
 
 #### Meetup URL
 
