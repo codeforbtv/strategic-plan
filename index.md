@@ -90,9 +90,18 @@ Structure
 
 ### Leadership
 
+The Brigade Captains for Code for BTV are Jason Pelletier and Bradley Holt.
+
 ### Steering Committee
 
+* James Lockridge
+* Jason Pelletier
+* Bradley Holt
+
 ### Partners
+
+* Big Heavy World
+* Found Line
 
 Schedule
 --------
