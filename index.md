@@ -31,6 +31,8 @@ There are many civic organizations in need of coding and design capacity. While 
 
 ### Values
 
+Vermonters value participatory government and civic engagement as manifest in traditions such as Town Meeting Day. We believe that by working together we can create and sustain civic software and infrastructure that will improve our communities. We recognize the value of sharing both our tools and our data allowing others to build on our work.
+
 ### Mission
 
 The mission of Code for BTV is to develop, deploy, and maintain modern civic software and infrastructure for Burlington, Vermont.
