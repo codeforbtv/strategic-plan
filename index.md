@@ -41,7 +41,7 @@ The mission of Code for BTV is to develop, deploy, and maintain modern civic sof
 
 ### Background
 
-The State of Vermont and county governments have outsourced many human services to non-governmental organizations (NGOs). Many governmental programs are run through these NGOs. Municipalities often partner with NGOs for economic development initiatives. These NGOs bridge the gap between governments and the people. The focus of Code for BTV will be working with these civic organizations.
+The State of Vermont and county governments have outsourced many human services to non-governmental organizations (NGOs). Many governmental programs are run through these NGOs. Municipalities often partner with NGOs for economic development initiatives. These NGOs bridge the gap between governments and the people. The focus of Code for BTV is to work with these civic organizations.
 
 ### Alignment with Code for America Strategic Outcomes
 
