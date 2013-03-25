@@ -39,7 +39,7 @@ Vermonters value participatory government and civic engagement as manifest in tr
 
 ### Mission
 
-The mission of Code for BTV is to develop, deploy, and maintain modern civic software and infrastructure for the benefit of the people and civic organizations in the Burlington, Vermont metropolitan area.
+The mission of Code for BTV is to develop, deploy, and maintain modern civic software and infrastructure for the benefit of the people and civic organizations in the Burlington, Vermont metropolitan area. Domain-specific civic software will be created for the people and civic organizations served. Organizations will be encouraged to open their data allowing for an infrastructure of open data to emerge as more-and-more organizations are served.
 
 ### Background
 
