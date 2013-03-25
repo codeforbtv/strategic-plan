@@ -31,6 +31,8 @@ The first year goal of Code for BTV is to facilitate sustainable collaboration o
 
 There are many civic organizations in need of coding and design capacity. While these organizations may be able to find short term help through volunteers or one-time grants, building long term capacity is a larger challenge. At the same time, aspiring coders and designers seek to gain experience through work on real projects while professionals are looking for projects on which to experiment with new technologies or approaches.
 
+The Burlington, Vermont area has a very active community of technologists including the Burlington Web Application Group, the Vermont.NET User Group, and an annual event called Vermont Code Camp. These existing channels can be utilized to recruit Code for BTV members.
+
 ### Values
 
 Vermonters value participatory government and civic engagement as manifest in traditions such as Town Meeting Day. Code for BTV believes that by working together we can create and sustain civic software and infrastructure that will improve our communities. Code for BTV recognizes the value of sharing both our tools and our data allowing others to build on our work.
