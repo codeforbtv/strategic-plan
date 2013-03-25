@@ -120,6 +120,8 @@ TDB
 
 ### Campaigns
 
+Each campaign will focus on developing, deploying, and maintaining modern civic software for a given civic organizations. Each campaign will bring on a new civic organization while continuing to support those that came before. Leaders, coders, and designers will be recruited specifically for each campaign.
+
 #### Summer Campaign
 
 Code for BTV will launch with the [National Day of Civic Hacking](http://hackforchange.org/) on June 1-2, 2013. Its initial campaign will involve building a set of web apps for Big Heavy World, a volunteer-staffed nonprofit dedicated to preserving and promoting Vermont-made music. These apps will be part of a redesigned bigheavyworld.com, a web site providing resources and community-building for Vermont-based musicians and Vermont's music fans.
