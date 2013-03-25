@@ -122,6 +122,4 @@ TDB
 Outcomes
 --------
 
-### Initiatives
-
 ### Metrics
