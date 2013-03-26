@@ -33,7 +33,7 @@ TBD
 Goal
 ----
 
-The first year goal of Code for BTV is to facilitate sustainable collaboration on civic software between coders, designers, and civic organizations. Code for BTV will develop a pipeline of civic organizations in need of civic software, as well as a pipeline of coders and designers able to develop, deploy, and maintain civic software and infrastructure.
+The first year goal of Code for BTV is to facilitate sustainable collaboration on civic software between coders, designers, and civic organizations. Code for BTV will develop a pipeline of civic organizations in need of civic software, as well as a pipeline of coders and designers able to develop, deploy, and maintain civic software and infrastructure. Code for BTV aims to have a broad impact as many statewide non-governmental organizations (NGOs) are based in the Burlington, Vermont metropolitan area. Coders and designers from all over Vermont (and beyond) are welcome to participate in Code for BTV. Additionally, Code for BTV aims to create civic software that can be reused well beyond our local area.
 
 ### Vision
 
