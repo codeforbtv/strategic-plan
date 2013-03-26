@@ -142,6 +142,20 @@ Big Heavy World's apps will be built using HTML5 and other modern web technologi
 
 Big Heavy World has had a high level of success in harnessing the power of volunteers. However, developing and maintaining its web site through volunteers has proven to be a challenge. A new approach is needed that focuses on long term sustainability. Code for BTV's focus on long term sustainability combined with Big Heavy World's success in recruiting volunteers represents a new approach to addressing this issue of maintainability.
 
+Examples of app functionality needed by Big Heavy World:
+
+* Directory of Vermont Bands and Musicians
+* Directory of Vermont Instrument Shops
+* Directory of Live Music Venues in Vermont
+* Live Music Calendar (integrated with the Vermont Department of Tourism & Marketing's events calendar)
+* Live Music Recordings
+* Concert Photos
+* Free Classifieds for Vermont Musicians
+* Scene Wiki for Vermont Musicians
+* Public Forum for Vermont Musicians
+* Bands Update Listings
+* Band Photos
+
 #### Fall Campaign
 
 TDB
