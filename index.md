@@ -158,15 +158,15 @@ Examples of app functionality needed by Big Heavy World:
 
 #### Fall Campaign
 
-TDB
+TDB (previous campaign will continue)
 
 #### Winter Campaign
 
-TDB
+TDB (previous campaigns will continue)
 
 #### Spring Campaign
 
-TDB
+TDB (previous campaigns will continue)
 
 Outcomes
 --------
