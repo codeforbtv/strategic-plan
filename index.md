@@ -49,7 +49,7 @@ The mission of Code for BTV is to develop, deploy, and maintain modern civic sof
 
 ### Background
 
-The State of Vermont and county governments have outsourced many human services to non-governmental organizations. Many governmental programs are run through these organizations. Municipalities often partner with non-governmental organizations for economic development initiatives. These organizations bridge the gap between governments and the people. The focus of Code for BTV is to work with these organizations on civic software and open data projects.
+The State of Vermont and county governments have outsourced many human services to non-governmental organizations. Many governmental programs are run through these organizations. Municipalities often partner with non-governmental organizations for economic development initiatives. These organizations bridge the gap between governments and the people. The focus of Code for BTV is to work with these organizations on civic software and open data projects. This work will have the added effect of achieving better collaboration between governments and non-governmental organizations.
 
 ### Recruiting
 
