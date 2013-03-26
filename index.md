@@ -37,7 +37,7 @@ The first year goal of Code for BTV is to facilitate sustainable collaboration o
 
 ### Vision
 
-There are many organizations in need of coding and design capacity for civic software projects. While these organizations may be able to find short term help through volunteers or one-time grants, building long term capacity is a larger challenge. At the same time, aspiring coders and designers seek to gain experience through work on real projects while professionals are looking for projects on which to experiment with new technologies or approaches.
+There are many organizations in need of coding and design capacity for civic software projects. While these organizations may be able to find short term help through volunteers or one-time grants, building long term capacity is a larger challenge. At the same time, aspiring coders and designers seek to gain experience through work on real projects while professionals are looking for projects on which to experiment with new technologies or approaches. All of this exists in an environment where modern technology and infrastructure has enabled new forms of collaborative and participatory government.
 
 ### Values
 
