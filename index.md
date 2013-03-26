@@ -33,7 +33,7 @@ TBD
 Goal
 ----
 
-The first year goal of Code for BTV is to facilitate sustainable collaboration on civic software and open data projects between coders, designers, and non-governmental organizations. Code for BTV will develop a pipeline of organizations in need of civic software, as well as a pipeline of coders and designers able to develop, deploy, and maintain civic software and infrastructure. Code for BTV aims to have a broad impact as many statewide organizations are based in the Burlington, Vermont metropolitan area. Coders and designers from all over Vermont (and beyond) are welcome to participate in Code for BTV. Additionally, Code for BTV aims to create civic software and open data sources that can be used well beyond our local area.
+The first year goal of Code for BTV is to facilitate sustainable collaboration on civic software and open data projects between coders, designers, and non-governmental organizations. Code for BTV will develop a pipeline of organizations in need of civic software, as well as a pipeline of coders and designers able to develop, deploy, and maintain civic software and infrastructure. Code for BTV aims to have a broad impact as many statewide organizations are based in the Burlington metropolitan area. Coders and designers from all over Vermont (and beyond) are welcome to participate in Code for BTV. Additionally, Code for BTV aims to create civic software and open data sources that can be used well beyond our local area.
 
 ### Vision
 
@@ -45,7 +45,7 @@ Vermonters value participatory government and civic engagement as manifest in tr
 
 ### Mission
 
-The mission of Code for BTV is to develop, deploy, and maintain modern civic software and infrastructure for the benefit of communities in the Burlington, Vermont metropolitan area. Domain-specific civic software will be created for the organizations served. These organizations will be encouraged to open their data allowing for an infrastructure of open data to emerge as more-and-more organizations are served. Code, practices, and data will be openly available as templates for other communities looking to solve similar domain-specific problems.
+The mission of Code for BTV is to develop, deploy, and maintain modern civic software and infrastructure for the benefit of communities in the Burlington metropolitan area. Domain-specific civic software will be created for the organizations served. These organizations will be encouraged to open their data allowing for an infrastructure of open data to emerge as more-and-more organizations are served. Code, practices, and data will be openly available as templates for other communities looking to solve similar domain-specific problems.
 
 ### Background
 
@@ -53,7 +53,7 @@ The State of Vermont, county governments, and municipalities have outsourced man
 
 ### Recruiting
 
-The Burlington, Vermont area has a very active community of technologists including the Burlington Web Application Group, the Vermont.NET User Group, and an annual event called Vermont Code Camp. These existing channels can be utilized to recruit Code for BTV members. The area also includes many technology-focused organizations that are potential partners including the Emergent Media Center, the Vermont Center for Emerging Technologies, Dealer.com, MyWebGrocer, Green Mountain Coffee Roasters, and IBM. Code for BTV aims to recruit coders and designers with a wide range of experiences.
+The Burlington area has a very active community of technologists including the Burlington Web Application Group, the Vermont.NET User Group, and an annual event called Vermont Code Camp. These existing channels can be utilized to recruit Code for BTV members. The area also includes many technology-focused organizations that are potential partners including the Emergent Media Center, the Vermont Center for Emerging Technologies, Dealer.com, MyWebGrocer, Green Mountain Coffee Roasters, and IBM. Code for BTV aims to recruit coders and designers with a wide range of experiences.
 
 ### Alignment with Code for America Strategic Outcomes
 
