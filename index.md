@@ -157,12 +157,22 @@ TDB
 Outcomes
 --------
 
-### Metrics
+### Quantitative Metrics
 
-Code for BTV will measure its success using the following metrics:
+Code for BTV will measure its success using the following quantitative metrics:
 
 * Number of active brigade members.
 * Number of civic apps maintained.
 * Number of organizations served.
 * Number of open source components released.
 * Number of open data sources created.
+
+### Qualitative Metrics
+
+The following qualitative metrics will also be used to measure the success of Code for BTV:
+
+* Satisfaction of brigade members.
+* Maintainability of deployed civic apps.
+* Satisfaction of organizations served.
+* Reusability of open source components released.
+* Usefulness of open data sources created.
