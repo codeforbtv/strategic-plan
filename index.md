@@ -53,7 +53,7 @@ The State of Vermont and county governments have outsourced many human services 
 
 ### Recruiting
 
-The Burlington, Vermont area has a very active community of technologists including the Burlington Web Application Group, the Vermont.NET User Group, and an annual event called Vermont Code Camp. These existing channels can be utilized to recruit Code for BTV members.
+The Burlington, Vermont area has a very active community of technologists including the Burlington Web Application Group, the Vermont.NET User Group, and an annual event called Vermont Code Camp. These existing channels can be utilized to recruit Code for BTV members. The area also includes many technology-focused organizations that are potential partners including the Emergent Media Center, the Vermont Center for Emerging Technologies, Dealer.com, MyWebGrocer, Green Mountain Coffee Roasters, and IBM.
 
 ### Alignment with Code for America Strategic Outcomes
 
