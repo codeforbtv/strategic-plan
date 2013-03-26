@@ -33,11 +33,11 @@ TBD
 Goal
 ----
 
-The first year goal of Code for BTV is to facilitate sustainable collaboration on civic software between coders, designers, and civic organizations. Code for BTV will develop a pipeline of civic organizations in need of civic software, as well as a pipeline of coders and designers able to develop, deploy, and maintain civic software and infrastructure. Code for BTV aims to have a broad impact as many statewide non-governmental organizations (NGOs) are based in the Burlington, Vermont metropolitan area. Coders and designers from all over Vermont (and beyond) are welcome to participate in Code for BTV. Additionally, Code for BTV aims to create civic software that can be reused well beyond our local area.
+The first year goal of Code for BTV is to facilitate sustainable collaboration on civic software between coders, designers, and non-governmental organizations. Code for BTV will develop a pipeline of organizations in need of civic software, as well as a pipeline of coders and designers able to develop, deploy, and maintain civic software and infrastructure. Code for BTV aims to have a broad impact as many statewide organizations are based in the Burlington, Vermont metropolitan area. Coders and designers from all over Vermont (and beyond) are welcome to participate in Code for BTV. Additionally, Code for BTV aims to create civic software that can be reused well beyond our local area.
 
 ### Vision
 
-There are many civic organizations in need of coding and design capacity. While these organizations may be able to find short term help through volunteers or one-time grants, building long term capacity is a larger challenge. At the same time, aspiring coders and designers seek to gain experience through work on real projects while professionals are looking for projects on which to experiment with new technologies or approaches.
+There are many organizations in need of coding and design capacity for civic software projects. While these organizations may be able to find short term help through volunteers or one-time grants, building long term capacity is a larger challenge. At the same time, aspiring coders and designers seek to gain experience through work on real projects while professionals are looking for projects on which to experiment with new technologies or approaches.
 
 The Burlington, Vermont area has a very active community of technologists including the Burlington Web Application Group, the Vermont.NET User Group, and an annual event called Vermont Code Camp. These existing channels can be utilized to recruit Code for BTV members.
 
@@ -47,11 +47,11 @@ Vermonters value participatory government and civic engagement as manifest in tr
 
 ### Mission
 
-The mission of Code for BTV is to develop, deploy, and maintain modern civic software and infrastructure for the benefit of the people and civic organizations in the Burlington, Vermont metropolitan area. Domain-specific civic software will be created for the people and civic organizations served. Organizations will be encouraged to open their data allowing for an infrastructure of open data to emerge as more-and-more organizations are served.
+The mission of Code for BTV is to develop, deploy, and maintain modern civic software and infrastructure for the benefit of communities in the Burlington, Vermont metropolitan area. Domain-specific civic software will be created for the organizations served. These organizations will be encouraged to open their data allowing for an infrastructure of open data to emerge as more-and-more organizations are served.
 
 ### Background
 
-The State of Vermont and county governments have outsourced many human services to non-governmental organizations (NGOs). Many governmental programs are run through these NGOs. Municipalities often partner with NGOs for economic development initiatives. These NGOs bridge the gap between governments and the people. The focus of Code for BTV is to work with these civic organizations.
+The State of Vermont and county governments have outsourced many human services to non-governmental organizations. Many governmental programs are run through these organizations. Municipalities often partner with non-governmental organizations for economic development initiatives. These organizations bridge the gap between governments and the people. The focus of Code for BTV is to work with these organizations on civic software projects.
 
 ### Alignment with Code for America Strategic Outcomes
 
@@ -130,7 +130,7 @@ TDB
 
 ### Campaigns
 
-Each campaign will focus on developing, deploying, and maintaining modern civic software for a given civic organizations. Each campaign will bring on a new civic organization while continuing to support those that came before. Leaders, coders, and designers will be recruited specifically for each campaign.
+Each campaign will focus on developing, deploying, and maintaining modern civic software for a given organization. Each campaign will bring on a new organization while continuing to support those that came before. Leaders, coders, and designers will be recruited specifically for each campaign.
 
 #### Summer Campaign
 
@@ -161,6 +161,6 @@ Code for BTV will measure its success using the following metrics:
 
 * Number of active brigade members.
 * Number of civic apps maintained.
-* Number of civic organizations served.
+* Number of organizations served.
 * Number of open source components released.
 * Number of open data sources created.
