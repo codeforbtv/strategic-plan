@@ -68,7 +68,7 @@ The Burlington, Vermont area has a very active community of technologists includ
   </tr>
   <tr>
     <td>Cities collaborating to work better</td>
-    <td></td>
+    <td>✓</td>
   </tr>
   <tr>
     <td>Civic apps built on linked, open data</td>
