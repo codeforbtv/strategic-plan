@@ -8,6 +8,9 @@ Code for BTV, A Code for America Brigade
 
 One Year Strategic Plan
 
+Contribute to this strategic plan by forking this document on GitHub:  
+<https://github.com/codeforbtv>
+
 Burlington, Vermont (metropolitan area)
 ---------------------------------------
 
