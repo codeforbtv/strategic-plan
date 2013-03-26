@@ -33,7 +33,7 @@ TBD
 Goal
 ----
 
-The first year goal of Code for BTV is to facilitate sustainable collaboration on civic software between coders, designers, and non-governmental organizations. Code for BTV will develop a pipeline of organizations in need of civic software, as well as a pipeline of coders and designers able to develop, deploy, and maintain civic software and infrastructure. Code for BTV aims to have a broad impact as many statewide organizations are based in the Burlington, Vermont metropolitan area. Coders and designers from all over Vermont (and beyond) are welcome to participate in Code for BTV. Additionally, Code for BTV aims to create civic software that can be reused well beyond our local area.
+The first year goal of Code for BTV is to facilitate sustainable collaboration on civic software and open data projects between coders, designers, and non-governmental organizations. Code for BTV will develop a pipeline of organizations in need of civic software, as well as a pipeline of coders and designers able to develop, deploy, and maintain civic software and infrastructure. Code for BTV aims to have a broad impact as many statewide organizations are based in the Burlington, Vermont metropolitan area. Coders and designers from all over Vermont (and beyond) are welcome to participate in Code for BTV. Additionally, Code for BTV aims to create civic software and open data sources that can be used well beyond our local area.
 
 ### Vision
 
@@ -51,7 +51,7 @@ The mission of Code for BTV is to develop, deploy, and maintain modern civic sof
 
 ### Background
 
-The State of Vermont and county governments have outsourced many human services to non-governmental organizations. Many governmental programs are run through these organizations. Municipalities often partner with non-governmental organizations for economic development initiatives. These organizations bridge the gap between governments and the people. The focus of Code for BTV is to work with these organizations on civic software projects.
+The State of Vermont and county governments have outsourced many human services to non-governmental organizations. Many governmental programs are run through these organizations. Municipalities often partner with non-governmental organizations for economic development initiatives. These organizations bridge the gap between governments and the people. The focus of Code for BTV is to work with these organizations on civic software and open data projects.
 
 ### Alignment with Code for America Strategic Outcomes
 
