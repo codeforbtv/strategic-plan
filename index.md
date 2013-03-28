@@ -128,7 +128,7 @@ Schedule
 
 ### Meetups
 
-TDB
+TBD
 
 ### Campaigns
 
@@ -158,15 +158,15 @@ Examples of app functionality needed by Big Heavy World:
 
 #### Fall Campaign
 
-TDB (previous campaign will continue)
+TBD (previous campaign will continue)
 
 #### Winter Campaign
 
-TDB (previous campaigns will continue)
+TBD (previous campaigns will continue)
 
 #### Spring Campaign
 
-TDB (previous campaigns will continue)
+TBD (previous campaigns will continue)
 
 Outcomes
 --------
