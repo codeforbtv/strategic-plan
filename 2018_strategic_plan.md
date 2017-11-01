@@ -20,17 +20,17 @@ title: Code for BTV, A Code for America Brigade
   * [Non-Profit & Community Partners](#human_resources-nonprofit)
 
 
-Executive Summary <a name="#exec_summary"></a>
+Executive Summary <a name="exec_summary"></a>
 ------------------
 TBD 
 
 
-Vision and Mission Statement <a name="#vision_mission"></a>
+Vision and Mission Statement <a name="vision_mission"></a>
 ----------------------------
 TBD 
 
 
-Values <a name="#values"></a>
+Values <a name="values"></a>
 ------
 TBD 
 
@@ -45,7 +45,7 @@ TBD
 TBD
 
 
-Key Performance Indicators <a name="#kpis"></a>
+Key Performance Indicators <a name="kpis"></a>
 ---------------
 
 ### Quantitative Metrics
@@ -55,11 +55,11 @@ TBD
 TBD 
 
 
-Human Resources <a name="#human_resources-leadership"></a>
+Human Resources <a name="human_resources"></a>
 ---------------
 The roles below are generally aligned with those defined in ["Code for America: Roles Within a Brigade"](https://www.codeforamerica.org/blog/2014/10/29/roles-within-a-brigade/).  Some additions and customizations have been made.
 
-### Brigade Leadership <a name="#human_resources-leadership"></a>
+### Brigade Leadership <a name="human_resources-leadership"></a>
 
 #### Brigade Captains
 > "A Code for America Brigade Captain is a volunteer who starts and/or leads a local Brigade community. They commit to developing a sustainable civic technology community in collaboration with local government and community partners, championing Brigade activities in their city, and building out a core leadership team."
@@ -97,12 +97,12 @@ The roles below are generally aligned with those defined in ["Code for America: 
 
 * TBD
 
-### Governmental Partners <a name="#human_resources-government"></a>
+### Governmental Partners <a name="human_resources-government"></a>
 > "Municipal Partners are a local Brigade’s civic innovation champions within government. Municipal Partners collaborate with and participate in their local Brigade. They make introductions between the Brigade and city workers, help Brigades navigate city processes, collaborate on events, and develop a civic innovation practice that spans the government and local community."
 
 * TBD
 
-### Governmental Partners <a name="#human_resources-nonprofit"></a>
+### Governmental Partners <a name="human_resources-nonprofit"></a>
 
 * TBD
 
