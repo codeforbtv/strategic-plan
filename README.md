@@ -1,4 +1,5 @@
-Code for BTV, A Code for America Brigade
+Strategic Plans
 ========================================
 
-[One Year Strategic Plan](http://codeforbtv.github.com/strategic-plan/)
+* [2018 Plan](2018_strategic_plan.md)
+* [2013 Plan](2013_strategic_plan.md)
