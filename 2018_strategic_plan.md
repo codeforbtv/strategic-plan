@@ -37,8 +37,6 @@ TBD
 
 Goals <a name="goals"></a>
 ----
-* [#1: ](#objective1)
-* [#2: ](#objective2)
 
 ### Objective #1: <a name="goals-objective1"></a>
 TBD 
@@ -51,9 +49,10 @@ Key Performance Indicators <a name="#kpis"></a>
 ---------------
 
 ### Quantitative Metrics
+TBD 
 
 ### Qualitative Metrics
-
+TBD 
 
 
 Human Resources <a name="#human_resources-leadership"></a>
