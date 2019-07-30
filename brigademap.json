@@ -1,0 +1,3661 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -121.8856,
+          37.3386
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-San-Jose",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-San-Jose",
+        "id": "Code-for-San-Jose",
+        "rss": "http://codeforsanjose.com/category/blog/feed/",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 37.3386,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-San-Jose/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-San-Jose/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-San-Jose/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-San-Jose/upcoming_events",
+        "events_url": "http://www.meetup.com/Code-for-San-Jose",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-San-Jose/past_events",
+        "city": "San Jose, CA",
+        "social_profiles": {
+          "facebook": "https://facebook.com/codeforsanjose",
+          "twitter": "@codeforsanjose"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/6627417?v=4",
+        "last_updated": 1564499776,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-San-Jose/attendance",
+        "projects_list_url": "https://github.com/codeforsanjose",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-San-Jose/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codeforsanjose.com/",
+        "longitude": -121.8856,
+        "member_count": 2815,
+        "name": "Code for San Jose"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -70.2633551,
+          43.6562513
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Maine",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Maine",
+        "id": "Open-Maine",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037973579",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-08-15",
+        "latitude": 43.6562513,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Maine/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Maine/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Maine/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Maine/upcoming_events",
+        "events_url": "https://www.meetup.com/OpenMaine/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Maine/past_events",
+        "city": "Portland, ME",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/openmaine/",
+          "twitter": "@Open_Maine"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars3.githubusercontent.com/u/3003028?v=4",
+        "last_updated": 1564499061,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Maine/attendance",
+        "projects_list_url": "https://github.com/code4maine",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Maine/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -70.2633551,
+        "member_count": 250,
+        "name": "Open Maine"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.708861261,
+          36.7295295
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Fresno",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Fresno",
+        "id": "Code-for-Fresno",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2019-03-05",
+        "latitude": 36.7295295,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Fresno/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Fresno/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Fresno/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Fresno/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Fresno/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Fresno/past_events",
+        "city": "Fresno, CA",
+        "social_profiles": {
+          "twitter": "Code4Fresno"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499475,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Fresno/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Fresno/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -119.708861261,
+        "member_count": 90,
+        "name": "Code for Fresno"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -116.2146068,
+          43.6187102
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Boise",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Boise",
+        "id": "Code-for-Boise",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855576252",
+        "marker-symbol": "town-hall",
+        "started_on": "2017-12-08",
+        "latitude": 43.6187102,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Boise/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Boise/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Boise/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Boise/upcoming_events",
+        "events_url": "https://www.meetup.com/boisebrigade",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Boise/past_events",
+        "city": "Boise, ID",
+        "social_profiles": {
+          "twitter": "@boisebrigade"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/23301935?v=4",
+        "last_updated": 1564412942,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Boise/attendance",
+        "projects_list_url": "https://github.com/boisebrigade",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Boise/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://www.boisebrigade.org/",
+        "longitude": -116.2146068,
+        "member_count": 601,
+        "name": "Code for Boise"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.006,
+          40.7144
+        ],
+        "type": "Point"
+      },
+      "id": "BetaNYC",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/BetaNYC",
+        "id": "BetaNYC",
+        "rss": "https://beta.nyc/category/blog/rss",
+        "marker-symbol": "town-hall",
+        "started_on": "2017-12-21",
+        "latitude": 40.7144,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/BetaNYC/issues",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/BetaNYC/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/BetaNYC/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/BetaNYC/upcoming_events",
+        "events_url": "http://www.meetup.com/BetaNYC/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/BetaNYC/past_events",
+        "city": "New York, NY",
+        "social_profiles": {},
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564500147,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/BetaNYC/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/BetaNYC/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Fiscally Sponsored Brigade",
+          "Official"
+        ],
+        "website": "http://www.beta.nyc",
+        "longitude": -74.006,
+        "member_count": 5362,
+        "name": "BetaNYC"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0434736,
+          40.8859326
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Hackensack",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Hackensack",
+        "id": "Code-for-Hackensack",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2019-01-29",
+        "latitude": 40.8859326,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Hackensack/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Hackensack/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Hackensack/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Hackensack/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Hackensack/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Hackensack/past_events",
+        "city": "Hackensack, NJ",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564414859,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Hackensack/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Hackensack/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -74.0434736,
+        "member_count": 15,
+        "name": "Code for Hackensack"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.660551,
+          41.965453
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Uptown",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Uptown",
+        "id": "Open-Uptown",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855575924",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-02-06",
+        "latitude": 41.965453,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Uptown/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Uptown/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Uptown/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Uptown/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-and-Coffee-Uptown-Brigade/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Uptown/past_events",
+        "city": "Chicago, IL",
+        "social_profiles": {
+          "twitter": "@codeuptown"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564500377,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Uptown/attendance",
+        "projects_list_url": "https://github.com/Code-and-Coffee-Uptown-Brigade",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Uptown/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://openuptown.us/",
+        "longitude": -87.660551,
+        "member_count": 529,
+        "name": "Open Uptown"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.6765,
+          35.0824
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-ABQ",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-ABQ",
+        "id": "Code-for-ABQ",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927490261",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 35.0824,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-ABQ/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-ABQ/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-ABQ/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-ABQ/upcoming_events",
+        "events_url": "http://www.meetup.com/Code-for-ABQ",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-ABQ/past_events",
+        "city": "Albuquerque, NM",
+        "social_profiles": {
+          "twitter": "@codeforabq"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499965,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-ABQ/attendance",
+        "projects_list_url": "https://docs.google.com/spreadsheets/d/1k4-U_ojSdzJyKTRYiVEpx7Ae4kXBdHAf-jA-_aZGhrI/export?format=csv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-ABQ/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codefornm.org/",
+        "longitude": -106.6765,
+        "member_count": 345,
+        "name": "Code for ABQ"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -97.7431,
+          30.2672
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Austin",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Austin",
+        "id": "Open-Austin",
+        "rss": "http://www.open-austin.org/feed",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 30.2672,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Austin/issues",
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Austin/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Austin/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Austin/upcoming_events",
+        "events_url": "https://www.meetup.com/Open-Austin/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Austin/past_events",
+        "city": "Austin, TX",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/openatx/",
+          "twitter": "@openaustin"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars1.githubusercontent.com/u/970084?v=4",
+        "last_updated": 1564240740,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Austin/attendance",
+        "projects_list_url": "https://github.com/open-austin",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Austin/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Partner Brigade",
+          "Official"
+        ],
+        "website": "https://www.open-austin.org/",
+        "longitude": -97.7431,
+        "member_count": 2773,
+        "name": "Open Austin"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.6907,
+          41.5047
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Cleveland",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Cleveland",
+        "id": "Open-Cleveland",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097679868",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 41.5047,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Cleveland/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Cleveland/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Cleveland/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Cleveland/upcoming_events",
+        "events_url": "https://www.meetup.com/open-cleveland/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Cleveland/past_events",
+        "city": "Cleveland, OH",
+        "social_profiles": {
+          "twitter": "@opencleveland"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars3.githubusercontent.com/u/9359323?v=4",
+        "last_updated": 1564327675,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Cleveland/attendance",
+        "projects_list_url": "https://github.com/opencleveland",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Cleveland/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "https://www.opencleveland.org",
+        "longitude": -81.6907,
+        "member_count": 1004,
+        "name": "Open Cleveland"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.5127283,
+          41.6786754
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Toledo",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Toledo",
+        "id": "Open-Toledo",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681296",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-04-17",
+        "latitude": 41.6786754,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Toledo/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Toledo/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Toledo/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Toledo/upcoming_events",
+        "events_url": "https://www.meetup.com/Open-Toledo/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Toledo/past_events",
+        "city": "Toledo, OH",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564412868,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Toledo/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Toledo/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -83.5127283,
+        "member_count": 208,
+        "name": "Open Toledo"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.1916,
+          39.7589
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Dayton",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Dayton",
+        "id": "Code-for-Dayton",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735584766",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 39.7589,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Dayton/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Dayton/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Dayton/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Dayton/upcoming_events",
+        "events_url": "http://www.meetup.com/Code-for-Dayton/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Dayton/past_events",
+        "city": "Dayton, OH",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/Code-For-Dayton-1501498193512256/",
+          "twitter": "@codefordayton"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars3.githubusercontent.com/u/6026408?v=4",
+        "last_updated": 1564413766,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Dayton/attendance",
+        "projects_list_url": "https://github.com/codefordayton",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Dayton/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codefordayton.org/",
+        "longitude": -84.1916,
+        "member_count": 924,
+        "name": "Code for Dayton"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.1573,
+          32.7153
+        ],
+        "type": "Point"
+      },
+      "id": "Open-San-Diego",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-San-Diego",
+        "id": "Open-San-Diego",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097679642",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 32.7153,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-San-Diego/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-San-Diego/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-San-Diego/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-San-Diego/upcoming_events",
+        "events_url": "https://www.meetup.com/Open-San-Diego",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-San-Diego/past_events",
+        "city": "San Diego, CA",
+        "social_profiles": {
+          "twitter": "@OpenSanDiego"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars0.githubusercontent.com/u/363945?v=4",
+        "last_updated": 1564414747,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-San-Diego/attendance",
+        "projects_list_url": "https://github.com/opensandiego",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-San-Diego/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://opensandiego.org",
+        "longitude": -117.1573,
+        "member_count": 883,
+        "name": "Open San Diego"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0780556,
+          40.7280556
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Jersey-City",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Jersey-City",
+        "id": "Code-for-Jersey-City",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583598",
+        "marker-symbol": "town-hall",
+        "started_on": "2017-12-21",
+        "latitude": 40.7280556,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Jersey-City/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Jersey-City/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Jersey-City/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Jersey-City/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-For-Jersey-City/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Jersey-City/past_events",
+        "city": "Jersey City, NJ",
+        "social_profiles": {},
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564500294,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Jersey-City/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Jersey-City/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -74.0780556,
+        "member_count": 686,
+        "name": "Code for Jersey City"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.6741949,
+          45.5202471
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-PDX",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-PDX",
+        "id": "Code-for-PDX",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974945",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-05-22",
+        "latitude": 45.5202471,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-PDX/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-PDX/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-PDX/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-PDX/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-PDX/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-PDX/past_events",
+        "city": "Portland, OR",
+        "social_profiles": {
+          "twitter": "@codeForPDX"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars3.githubusercontent.com/u/39497980?v=4",
+        "last_updated": 1564500142,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-PDX/attendance",
+        "projects_list_url": "https://github.com/codeforpdx",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-PDX/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -122.6741949,
+        "member_count": 572,
+        "name": "Code for PDX"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.5299106,
+          41.6612561
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Iowa",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Iowa",
+        "id": "Code-for-Iowa",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927492620",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-07-27",
+        "latitude": 41.6612561,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Iowa/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Iowa/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Iowa/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Iowa/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Iowa/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Iowa/past_events",
+        "city": "Iowa City, IA",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499149,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Iowa/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Iowa/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -91.5299106,
+        "member_count": 94,
+        "name": "Code for Iowa"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -96.3271538,
+          30.6253463
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-BCS",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-BCS",
+        "id": "Code-for-BCS",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037971404",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-09-06",
+        "latitude": 30.6253463,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-BCS/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-BCS/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-BCS/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-BCS/upcoming_events",
+        "events_url": "https://www.meetup.com/CodeforBCS/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-BCS/past_events",
+        "city": "Bryan/College Station, TX",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499027,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-BCS/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-BCS/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -96.3271538,
+        "member_count": 92,
+        "name": "Code for BCS"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.252,
+          41.6764
+        ],
+        "type": "Point"
+      },
+      "id": "Hack-Michiana",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Hack-Michiana",
+        "id": "Hack-Michiana",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/5865032145652412293",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 41.6764,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Hack-Michiana/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Hack-Michiana/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Hack-Michiana/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Hack-Michiana/upcoming_events",
+        "events_url": "https://www.meetup.com/Hack-Michiana/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Hack-Michiana/past_events",
+        "city": "South Bend, IN",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars0.githubusercontent.com/u/5560123?v=4",
+        "last_updated": 1564498999,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Hack-Michiana/attendance",
+        "projects_list_url": "https://github.com/hackmichiana",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Hack-Michiana/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://hackmichiana.org/",
+        "longitude": -86.252,
+        "member_count": 715,
+        "name": "Hack Michiana"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.1977,
+          38.6272
+        ],
+        "type": "Point"
+      },
+      "id": "OpenSTL",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/OpenSTL",
+        "id": "OpenSTL",
+        "rss": "http://buildforstl.org/feed",
+        "marker-symbol": "town-hall",
+        "started_on": "2017-10-22",
+        "latitude": 38.6272,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/OpenSTL/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/OpenSTL/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/OpenSTL/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/OpenSTL/upcoming_events",
+        "events_url": "http://www.meetup.com/OpenSTL",
+        "past_events": "http://api.codeforamerica.org/api/organizations/OpenSTL/past_events",
+        "city": "St Louis, MO",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/groups/opendatastl",
+          "twitter": "@open_stl"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/5983880?v=4",
+        "last_updated": 1564499734,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/OpenSTL/attendance",
+        "projects_list_url": "https://github.com/opendatastl",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/OpenSTL/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://openstl.org",
+        "longitude": -90.1977,
+        "member_count": 1092,
+        "name": "OpenSTL"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.8783922,
+          42.8867166
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Buffalo",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Buffalo",
+        "id": "Code-for-Buffalo",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927491288",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-07-31",
+        "latitude": 42.8867166,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Buffalo/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Buffalo/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Buffalo/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Buffalo/upcoming_events",
+        "events_url": "https://www.meetup.com/CodeForBuffalo/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Buffalo/past_events",
+        "city": "Buffalo, NY",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/CodeForBuffalo",
+          "twitter": "@CodeForBuffalo"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564414472,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Buffalo/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Buffalo/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "https://codeforbuffalo.org/",
+        "longitude": -78.8783922,
+        "member_count": 207,
+        "name": "Code for Buffalo"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.05578,
+          35.9131542
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Chapel-Hill",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Chapel-Hill",
+        "id": "Code-for-Chapel-Hill",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582281",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-01-20",
+        "latitude": 35.9131542,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Chapel-Hill/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Chapel-Hill/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Chapel-Hill/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Chapel-Hill/upcoming_events",
+        "events_url": "https://www.meetup.com/Triangle-Code-for-America",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Chapel-Hill/past_events",
+        "city": "Chapel Hill, NC",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564500289,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Chapel-Hill/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Chapel-Hill/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://www.codeforchapelhill.com/",
+        "longitude": -79.05578,
+        "member_count": 1752,
+        "name": "Code for Chapel Hill"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -110.9698,
+          32.2216
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Tucson",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Tucson",
+        "id": "Code-for-Tucson",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/5865032145652410499",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 32.2216,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Tucson/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Tucson/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Tucson/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Tucson/upcoming_events",
+        "events_url": "http://www.meetup.com/Code-for-Tucson/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Tucson/past_events",
+        "city": "Tucson, AZ",
+        "social_profiles": {
+          "twitter": "@CodeforTucson"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars0.githubusercontent.com/u/5103176?v=4",
+        "last_updated": 1564500297,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Tucson/attendance",
+        "projects_list_url": "https://github.com/CodeForTucson",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Tucson/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codefortucson.org/",
+        "longitude": -110.9698,
+        "member_count": 937,
+        "name": "Code for Tucson"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -104.9847,
+          39.7392
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Denver",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Denver",
+        "id": "Code-for-Denver",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037972092",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 39.7392,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Denver/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Denver/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Denver/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Denver/upcoming_events",
+        "events_url": "http://www.meetup.com/CodeForDenver/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Denver/past_events",
+        "city": "Denver, CO",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codefordenver/",
+          "twitter": "@codefordenver"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/7472092?v=4",
+        "last_updated": 1564499657,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Denver/attendance",
+        "projects_list_url": "https://github.com/codefordenver",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Denver/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://www.codefordenver.org/",
+        "longitude": -104.9847,
+        "member_count": 2476,
+        "name": "Code for Denver"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.5515,
+          35.5951
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Asheville",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Asheville",
+        "id": "Code-for-Asheville",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583758",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 35.5951,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Asheville/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Asheville/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Asheville/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Asheville/upcoming_events",
+        "events_url": "http://www.meetup.com/Code-for-Asheville/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Asheville/past_events",
+        "city": "Asheville, NC",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codeforasheville/",
+          "twitter": "@code4asheville"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars3.githubusercontent.com/u/3941752?v=4",
+        "last_updated": 1564499857,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Asheville/attendance",
+        "projects_list_url": "https://github.com/codeforasheville",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Asheville/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codeforasheville.org",
+        "longitude": -82.5515,
+        "member_count": 658,
+        "name": "Code for Asheville"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.6121893,
+          39.2903848
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Baltimore",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Baltimore",
+        "id": "Code-for-Baltimore",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097680208",
+        "marker-symbol": "town-hall",
+        "started_on": "2017-10-22",
+        "latitude": 39.2903848,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Baltimore/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Baltimore/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Baltimore/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Baltimore/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Baltimore/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Baltimore/past_events",
+        "city": "Baltimore, MD",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/CodeForBaltimore/",
+          "twitter": "@codeforbmore"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars0.githubusercontent.com/u/23199310?v=4",
+        "last_updated": 1564499997,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Baltimore/attendance",
+        "projects_list_url": "https://github.com/CodeForBaltimore",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Baltimore/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codeforbaltimore.org",
+        "longitude": -76.6121893,
+        "member_count": 1689,
+        "name": "Code for Baltimore"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3321,
+          47.6062
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Seattle",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Seattle",
+        "id": "Open-Seattle",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855577336",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 47.6062,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Seattle/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Seattle/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Seattle/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Seattle/upcoming_events",
+        "events_url": "https://www.meetup.com/openseattle/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Seattle/past_events",
+        "city": "Seattle, WA",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/openseattle/",
+          "twitter": "@open_seattle"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564414796,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Seattle/attendance",
+        "projects_list_url": "http://openseattle.org/projects/index.csv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Seattle/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://openseattle.org/",
+        "longitude": -122.3321,
+        "member_count": 3260,
+        "name": "Open Seattle"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.1436,
+          26.1237
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Fort-Lauderdale",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Lauderdale",
+        "id": "Code-for-Fort-Lauderdale",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582914",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 26.1237,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Lauderdale/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Lauderdale/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Lauderdale/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Lauderdale/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-FTL/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Lauderdale/past_events",
+        "city": "Ft. Lauderdale, FL",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/CodeForFTL/",
+          "twitter": "@codeforftl"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/5661283?v=4",
+        "last_updated": 1564413180,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Lauderdale/attendance",
+        "projects_list_url": "https://github.com/codeforftl",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Lauderdale/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codeforftl.org/",
+        "longitude": -80.1436,
+        "member_count": 2492,
+        "name": "Code for Fort Lauderdale"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.5397878,
+          39.7390721
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Data-Delaware",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Data-Delaware",
+        "id": "Open-Data-Delaware",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029012837",
+        "marker-symbol": "town-hall",
+        "started_on": "2017-10-22",
+        "latitude": 39.7390721,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Data-Delaware/issues",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Data-Delaware/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Data-Delaware/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Data-Delaware/upcoming_events",
+        "events_url": "https://www.meetup.com/Open-Data-Delaware/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Data-Delaware/past_events",
+        "city": "Wilmington, DE",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/opendatade/",
+          "twitter": "@opendatade"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/14185206?v=4",
+        "last_updated": 1564326601,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Data-Delaware/attendance",
+        "projects_list_url": "https://github.com/OpenDataDE",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Data-Delaware/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Fiscally Sponsored Brigade",
+          "Official"
+        ],
+        "website": "http://www.opendatadelaware.com/",
+        "longitude": -75.5397878,
+        "member_count": 1235,
+        "name": "Open Data Delaware"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.2308773,
+          37.4889
+        ],
+        "type": "Point"
+      },
+      "id": "OpenSMC",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/OpenSMC",
+        "id": "OpenSMC",
+        "rss": "https://www.opensmc.tech/blog/",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-30",
+        "latitude": 37.4889,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/OpenSMC/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/OpenSMC/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/OpenSMC/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/OpenSMC/upcoming_events",
+        "events_url": "http://www.meetup.com/opensmc/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/OpenSMC/past_events",
+        "city": "San Mateo County, CA",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/opensmc/",
+          "twitter": "@opensmc"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564326713,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/OpenSMC/attendance",
+        "projects_list_url": "https://docs.google.com/spreadsheets/d/188H7C7t6RMHL5vOwLJggz2ZeywRwVpFSIzSNApLNc_I/export?format=csv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/OpenSMC/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -122.2308773,
+        "member_count": 431,
+        "name": "OpenSMC"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.0618702,
+          37.9020731
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Walnut-Creek",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Walnut-Creek",
+        "id": "Open-Walnut-Creek",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681791",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-08-08",
+        "latitude": 37.9020731,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Walnut-Creek/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Walnut-Creek/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Walnut-Creek/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Walnut-Creek/upcoming_events",
+        "events_url": "https://www.meetup.com/open-walnut-creek/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Walnut-Creek/past_events",
+        "city": "Walnut Creek, CA",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564500375,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Walnut-Creek/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Walnut-Creek/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -122.0618702,
+        "member_count": 54,
+        "name": "Open Walnut Creek"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.7782,
+          36.1678
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Nashville",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Nashville",
+        "id": "Code-for-Nashville",
+        "rss": "http://www.codefornashville.org/blog/",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 36.1678,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Nashville/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Nashville/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Nashville/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Nashville/upcoming_events",
+        "events_url": "https://www.meetup.com/code-for-nashville/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Nashville/past_events",
+        "city": "Nashville, TN",
+        "social_profiles": {
+          "twitter": "@code4nashville"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars0.githubusercontent.com/u/8493450?v=4",
+        "last_updated": 1564499149,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Nashville/attendance",
+        "projects_list_url": "https://github.com/code-for-nashville",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Nashville/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://www.codefornashville.org",
+        "longitude": -86.7782,
+        "member_count": 2458,
+        "name": "Code for Nashville"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.3940104,
+          34.8526176
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Greenville",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Greenville",
+        "id": "Code-for-Greenville",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097682617",
+        "marker-symbol": "town-hall",
+        "started_on": "2017-10-22",
+        "latitude": 34.8526176,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Greenville/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Greenville/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Greenville/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Greenville/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Greenville/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Greenville/past_events",
+        "city": "Greenville, SC",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars1.githubusercontent.com/u/7353466?v=4",
+        "last_updated": 1564500155,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Greenville/attendance",
+        "projects_list_url": "https://github.com/codeforgreenville/",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Greenville/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codeforgreenville.org",
+        "longitude": -82.3940104,
+        "member_count": 259,
+        "name": "Code for Greenville"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.2808333,
+          30.4380556
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Tallahassee",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Tallahassee",
+        "id": "Code-for-Tallahassee",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2016-05-27",
+        "latitude": 30.4380556,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Tallahassee/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Tallahassee/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Tallahassee/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Tallahassee/upcoming_events",
+        "events_url": "https://www.meetup.com/code-for-tallahassee/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Tallahassee/past_events",
+        "city": "Tallahassee, FL",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564327081,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Tallahassee/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Tallahassee/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -84.2808333,
+        "member_count": 82,
+        "name": "Code for Tallahassee"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.4766781,
+          38.029306
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Charlottesville",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Charlottesville",
+        "id": "Code-for-Charlottesville",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2019-07-24",
+        "latitude": 38.029306,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Charlottesville/issues",
+        "type": null,
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Charlottesville/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Charlottesville/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Charlottesville/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Charlottesvile/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Charlottesville/past_events",
+        "city": "Charlottesville, VA",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564498865,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Charlottesville/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Charlottesville/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codeforcharlottesville.org",
+        "longitude": -78.4766781,
+        "member_count": 36,
+        "name": "Code for Charlottesville"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.9959,
+          40.4406
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Pittsburgh",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Pittsburgh",
+        "id": "Code-for-Pittsburgh",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/5865032145652412054",
+        "marker-symbol": "town-hall",
+        "started_on": "2017-10-22",
+        "latitude": 40.4406,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Pittsburgh/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Pittsburgh/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Pittsburgh/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Pittsburgh/upcoming_events",
+        "events_url": "https://www.meetup.com/codeforpgh/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Pittsburgh/past_events",
+        "city": "Pittsburgh, PA",
+        "social_profiles": {
+          "twitter": "@codeforpgh"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars0.githubusercontent.com/u/7076673?v=4",
+        "last_updated": 1564499925,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Pittsburgh/attendance",
+        "projects_list_url": "https://github.com/codeforpittsburgh",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Pittsburgh/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "https://codeforpittsburgh.github.io/",
+        "longitude": -79.9959,
+        "member_count": 1353,
+        "name": "Code for Pittsburgh"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.759407,
+          38.2542376
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Kentuckiana",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Kentuckiana",
+        "id": "Code-for-Kentuckiana",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2019-01-29",
+        "latitude": 38.2542376,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Kentuckiana/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Kentuckiana/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Kentuckiana/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Kentuckiana/upcoming_events",
+        "events_url": null,
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Kentuckiana/past_events",
+        "city": "Louisville, KY",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564414512,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Kentuckiana/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Kentuckiana/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -85.759407,
+        "member_count": null,
+        "name": "Code for Kentuckiana"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.8395,
+          35.2032
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Charlotte-Brigade",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Charlotte-Brigade",
+        "id": "Open-Charlotte-Brigade",
+        "rss": "https://medium.com/opencltbrigade",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-08-07",
+        "latitude": 35.2032,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Charlotte-Brigade/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Charlotte-Brigade/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Charlotte-Brigade/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Charlotte-Brigade/upcoming_events",
+        "events_url": "https://www.meetup.com/Open-Charlotte-Brigade",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Charlotte-Brigade/past_events",
+        "city": "Charlotte, NC",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/opencltbrigade",
+          "twitter": "@opencltbrigade"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499306,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Charlotte-Brigade/attendance",
+        "projects_list_url": "https://brigade.opencharlotte.org/projects.csv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Charlotte-Brigade/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "https://opencharlotte.org",
+        "longitude": -80.8395,
+        "member_count": 1098,
+        "name": "Open Charlotte Brigade"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.0950506,
+          44.0505054
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Eugene",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Eugene",
+        "id": "Open-Eugene",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2019-07-24",
+        "latitude": 44.0505054,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Eugene/issues",
+        "type": null,
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Eugene/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Eugene/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Eugene/upcoming_events",
+        "events_url": "https://www.meetup.com/Open-Eugene/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Eugene/past_events",
+        "city": "Eugene, OR",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499774,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Eugene/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Eugene/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -123.0950506,
+        "member_count": 17,
+        "name": "Open Eugene"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.0365,
+          38.9072
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-DC",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-DC",
+        "id": "Code-for-DC",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775469623",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 38.9072,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-DC/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-DC/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-DC/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-DC/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-DC",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-DC/past_events",
+        "city": "Washington, DC",
+        "social_profiles": {
+          "twitter": "@CodeforDC"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars3.githubusercontent.com/u/2768897?v=4",
+        "last_updated": 1564499882,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-DC/attendance",
+        "projects_list_url": "https://github.com/codefordc",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-DC/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "https://codefordc.org",
+        "longitude": -77.0365,
+        "member_count": 5222,
+        "name": "Code for DC"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -112.0740373,
+          33.4483771
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Phoenix",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Phoenix",
+        "id": "Code-for-Phoenix",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855575820",
+        "marker-symbol": "town-hall",
+        "started_on": "2017-10-21",
+        "latitude": 33.4483771,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Phoenix/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Phoenix/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Phoenix/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Phoenix/upcoming_events",
+        "events_url": "https://www.meetup.com/codeforphx/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Phoenix/past_events",
+        "city": "Phoenix, AZ",
+        "social_profiles": {
+          "twitter": "@codeforphx"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564415017,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Phoenix/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Phoenix/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -112.0740373,
+        "member_count": 268,
+        "name": "Code for Phoenix"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.2797,
+          40.0176
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Boulder",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Boulder",
+        "id": "Code-for-Boulder",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974027",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 40.0176,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Boulder/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Boulder/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Boulder/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Boulder/upcoming_events",
+        "events_url": "http://www.meetup.com/codeforboulder/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Boulder/past_events",
+        "city": "Boulder, CO",
+        "social_profiles": {
+          "twitter": "@CodeforBoulder"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/6794815?v=4",
+        "last_updated": 1564500353,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Boulder/attendance",
+        "projects_list_url": "https://github.com/CodeForBoulder/",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Boulder/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codeforboulder.org/",
+        "longitude": -105.2797,
+        "member_count": 1073,
+        "name": "Code for Boulder"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -66.116781,
+          18.465488
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Puerto-Rico",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Puerto-Rico",
+        "id": "Code-for-Puerto-Rico",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583442",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-08-10",
+        "latitude": 18.465488,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Puerto-Rico/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Puerto-Rico/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Puerto-Rico/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Puerto-Rico/upcoming_events",
+        "events_url": null,
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Puerto-Rico/past_events",
+        "city": "San Juan, PR",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/6626422?v=4",
+        "last_updated": 1564500037,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Puerto-Rico/attendance",
+        "projects_list_url": "https://github.com/code4puertorico",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Puerto-Rico/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://code4puertorico.org/",
+        "longitude": -66.116781,
+        "member_count": null,
+        "name": "Code for Puerto Rico"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.2264,
+          25.789
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Miami",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Miami",
+        "id": "Code-for-Miami",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646222185",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 25.789,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Miami/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Miami/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Miami/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Miami/upcoming_events",
+        "events_url": "https://www.meetup.com/code-for-miami/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Miami/past_events",
+        "city": "Miami, FL",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/CodeForMiami/",
+          "twitter": "@codeformiami"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars3.githubusercontent.com/u/4633127?v=4",
+        "last_updated": 1564414883,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Miami/attendance",
+        "projects_list_url": "https://github.com/code-for-miami",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Miami/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codefor.miami",
+        "longitude": -80.2264,
+        "member_count": 1106,
+        "name": "Code for Miami"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -95.3696909,
+          35.7478769
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Muskogee",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Muskogee",
+        "id": "Code-for-Muskogee",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775469291",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-01-20",
+        "latitude": 35.7478769,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Muskogee/issues",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Muskogee/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Muskogee/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Muskogee/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Muskogee/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Muskogee/past_events",
+        "city": "Muskogee, OK",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499393,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Muskogee/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Muskogee/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Fiscally Sponsored Brigade",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -95.3696909,
+        "member_count": 131,
+        "name": "Code for Muskogee"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.2711,
+          37.8044
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Oakland",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Oakland",
+        "id": "Open-Oakland",
+        "rss": "https://www.openoakland.org/blog/",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 37.8044,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Oakland/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Oakland/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Oakland/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Oakland/upcoming_events",
+        "events_url": "https://www.meetup.com/OpenOakland/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Oakland/past_events",
+        "city": "Oakland, CA",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/openoak/",
+          "twitter": "@openoakland"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499720,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Oakland/attendance",
+        "projects_list_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ynEZMQT5_9rQDmZjtJchEy_UisUDlhe1BclIzAiaTK3nAWAs_2qghnTUco3c_NKqyTOIFz8_ykYn/pub?output=csv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Oakland/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "https://www.openoakland.org/",
+        "longitude": -122.2711,
+        "member_count": 1925,
+        "name": "Open Oakland"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.7811,
+          35.7915
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Cary",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Cary",
+        "id": "Code-for-Cary",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037971197",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 35.7915,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Cary/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Cary/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Cary/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Cary/upcoming_events",
+        "events_url": "http://www.meetup.com/Triangle-Code-for-America/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Cary/past_events",
+        "city": "Cary, NC",
+        "social_profiles": {
+          "twitter": "@CodeForCary"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/4837138?v=4",
+        "last_updated": 1564499366,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Cary/attendance",
+        "projects_list_url": "https://github.com/codeforcary",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Cary/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://www.codeforcary.org/",
+        "longitude": -78.7811,
+        "member_count": 1752,
+        "name": "Code for Cary"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.7148742,
+          38.4392588
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Sonoma-County",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Sonoma-County",
+        "id": "Code-for-Sonoma-County",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775467581",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-08-10",
+        "latitude": 38.4392588,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Sonoma-County/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Sonoma-County/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Sonoma-County/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Sonoma-County/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Sonoma-County/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Sonoma-County/past_events",
+        "city": "Santa Rosa, CA",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564412994,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Sonoma-County/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Sonoma-County/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -122.7148742,
+        "member_count": 61,
+        "name": "Code for Sonoma County"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.1583502,
+          39.7683331
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Indianapolis",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Indianapolis",
+        "id": "Code-for-Indianapolis",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2019-06-25",
+        "latitude": 39.7683331,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Indianapolis/issues",
+        "type": null,
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Indianapolis/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Indianapolis/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Indianapolis/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Indianapolis/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Indianapolis/past_events",
+        "city": "Indianapolis, IN",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499245,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Indianapolis/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Indianapolis/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -86.1583502,
+        "member_count": 96,
+        "name": "Code for Indianapolis"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Dallas",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Dallas",
+        "id": "Code-for-Dallas",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2019-07-24",
+        "latitude": 32.7762719,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Dallas/issues",
+        "type": null,
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Dallas/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Dallas/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Dallas/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Dallas/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Dallas/past_events",
+        "city": "Dallas, TX",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499775,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Dallas/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Dallas/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -96.7968559,
+        "member_count": 74,
+        "name": "Code for Dallas"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -105.084423,
+          40.5852602
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Fort-Collins",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Collins",
+        "id": "Code-for-Fort-Collins",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/9762567980029013435",
+        "marker-symbol": "town-hall",
+        "started_on": "2017-10-22",
+        "latitude": 40.5852602,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Collins/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Collins/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Collins/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Collins/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Fort-Collins/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Collins/past_events",
+        "city": "Fort Collins, CO",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/CodeforFoCo/",
+          "twitter": "@codeforfoco"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars3.githubusercontent.com/u/18219957?v=4",
+        "last_updated": 1564500435,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Collins/attendance",
+        "projects_list_url": "https://github.com/codeforfoco",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Fort-Collins/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codeforfoco.org/",
+        "longitude": -105.084423,
+        "member_count": 338,
+        "name": "Code for Fort Collins"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.4543,
+          41.4887
+        ],
+        "type": "Point"
+      },
+      "id": "Code-Island",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-Island",
+        "id": "Code-Island",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855577948",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 41.4887,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-Island/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-Island/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-Island/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-Island/upcoming_events",
+        "events_url": "http://www.meetup.com/Rhode-Island-Code-for-America-Brigade/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-Island/past_events",
+        "city": "Providence, RI",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codeislandbrigade",
+          "twitter": "@code_island"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars1.githubusercontent.com/u/6508208?v=4",
+        "last_updated": 1564412667,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-Island/attendance",
+        "projects_list_url": "https://github.com/codeisland",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-Island/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://code-island.org/",
+        "longitude": -71.4543,
+        "member_count": 460,
+        "name": "Code Island"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -84.388,
+          33.749
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Atlanta",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Atlanta",
+        "id": "Code-for-Atlanta",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927490732",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 33.749,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Atlanta/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Atlanta/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Atlanta/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Atlanta/upcoming_events",
+        "events_url": "https://www.meetup.com/codeforatlanta/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Atlanta/past_events",
+        "city": "Atlanta, GA",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codeforatlanta",
+          "twitter": "@codeforatlanta"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars0.githubusercontent.com/u/5956025?v=4",
+        "last_updated": 1564499394,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Atlanta/attendance",
+        "projects_list_url": "https://github.com/codeforatlanta",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Atlanta/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://www.codeforatlanta.org/",
+        "longitude": -84.388,
+        "member_count": 3132,
+        "name": "Code for Atlanta"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.4944,
+          38.5816
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Sacramento",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Sacramento",
+        "id": "Code-for-Sacramento",
+        "rss": "http://code4sac.org/cat/blog/",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 38.5816,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Sacramento/issues",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Sacramento/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Sacramento/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Sacramento/upcoming_events",
+        "events_url": "https://www.meetup.com/Code4Sac",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Sacramento/past_events",
+        "city": "Sacramento, CA",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/code4sac/",
+          "twitter": "@code4sac"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499135,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Sacramento/attendance",
+        "projects_list_url": "https://docs.google.com/spreadsheet/pub?key=1k5gff8Mvs6rb3sz6aLll5Dq8joftl65Gmy33DO-7Kv8&output=csv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Sacramento/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Fiscally Sponsored Brigade",
+          "Official"
+        ],
+        "website": "http://codeforsacramento.org/",
+        "longitude": -121.4944,
+        "member_count": 1837,
+        "name": "Code for Sacramento"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -93.09,
+          44.9537
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Twin-Cities",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Twin-Cities",
+        "id": "Open-Twin-Cities",
+        "rss": "http://opentwincities.org/posts/",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 44.9537,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Twin-Cities/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Twin-Cities/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Twin-Cities/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Twin-Cities/upcoming_events",
+        "events_url": "http://www.meetup.com/OpenTwinCities/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Twin-Cities/past_events",
+        "city": "St. Paul, MN",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/OpenTwinCities/",
+          "twitter": "@opentwincities"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499512,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Twin-Cities/attendance",
+        "projects_list_url": "https://docs.google.com/spreadsheets/d/1OaIzmWf5btaxChWhPX_KEEttkwsQdzB2t-PVOshCOIw/export?gid=0&format=csv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Twin-Cities/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://opentwincities.org",
+        "longitude": -93.09,
+        "member_count": 662,
+        "name": "Open Twin Cities"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.922497,
+          43.0349931
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Milwaukee",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Milwaukee",
+        "id": "Code-for-Milwaukee",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2019-04-30",
+        "latitude": 43.0349931,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Milwaukee/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Milwaukee/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Milwaukee/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Milwaukee/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Milwaukee/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Milwaukee/past_events",
+        "city": "Milwaukee, WI",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499319,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Milwaukee/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Milwaukee/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -87.922497,
+        "member_count": 211,
+        "name": "Code for Milwaukee"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -157.8583,
+          21.3069
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Hawaii",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Hawaii",
+        "id": "Code-for-Hawaii",
+        "rss": "http://blog.codeforhawaii.org/",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 21.3069,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Hawaii/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Hawaii/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Hawaii/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Hawaii/upcoming_events",
+        "events_url": "http://www.meetup.com/Code-for-Hawaii/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Hawaii/past_events",
+        "city": "Honolulu, HI",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codeforhawaii/",
+          "twitter": "@codeforhawaii"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars3.githubusercontent.com/u/6244195?v=4",
+        "last_updated": 1564327804,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Hawaii/attendance",
+        "projects_list_url": "https://github.com/codeforhawaii",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Hawaii/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://www.codeforhawaii.org/",
+        "longitude": -157.8583,
+        "member_count": 335,
+        "name": "Code for Hawaii"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.0392919,
+          35.6729639
+        ],
+        "type": "Point"
+      },
+      "id": "Open-NC-Collaborative",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-NC-Collaborative",
+        "id": "Open-NC-Collaborative",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646224343",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-04-14",
+        "latitude": 35.6729639,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-NC-Collaborative/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-NC-Collaborative/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-NC-Collaborative/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-NC-Collaborative/upcoming_events",
+        "events_url": null,
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-NC-Collaborative/past_events",
+        "city": "North Carolina",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/24854789?v=4",
+        "last_updated": 1564499454,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-NC-Collaborative/attendance",
+        "projects_list_url": "https://github.com/Open-NC",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-NC-Collaborative/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://opennc-collaborative.org/",
+        "longitude": -79.0392919,
+        "member_count": null,
+        "name": "Open NC Collaborative"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -149.9003,
+          61.2181
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Anchorage",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Anchorage",
+        "id": "Code-for-Anchorage",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735584527",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 61.2181,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Anchorage/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Anchorage/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Anchorage/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Anchorage/upcoming_events",
+        "events_url": "http://www.meetup.com/Code-for-Anchorage",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Anchorage/past_events",
+        "city": "Anchorage, AK",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codeforanc/",
+          "twitter": "@CodeForAnc"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars0.githubusercontent.com/u/3999742?v=4",
+        "last_updated": 1564499246,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Anchorage/attendance",
+        "projects_list_url": "https://github.com/codeforanchorage",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Anchorage/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codeforanchorage.org/",
+        "longitude": -149.9003,
+        "member_count": 261,
+        "name": "Code for Anchorage"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.0007065,
+          39.9622601
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Columbus",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Columbus",
+        "id": "Code-for-Columbus",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2019-05-10",
+        "latitude": 39.9622601,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Columbus/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Columbus/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Columbus/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Columbus/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Columbus/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Columbus/past_events",
+        "city": "Columbus, OH",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/CodeForColumbus/"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars3.githubusercontent.com/u/45611951?v=4",
+        "last_updated": 1564413177,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Columbus/attendance",
+        "projects_list_url": "https://github.com/codeforcolumbus",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Columbus/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "https://codeforcolumbus.org/",
+        "longitude": -83.0007065,
+        "member_count": 380,
+        "name": "Code for Columbus"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.0998,
+          32.0835
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Savannah",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Savannah",
+        "id": "Open-Savannah",
+        "rss": "https://blog.opensavannah.org/feed",
+        "marker-symbol": "town-hall",
+        "started_on": "2017-03-21",
+        "latitude": 32.0835,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Savannah/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Savannah/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Savannah/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Savannah/upcoming_events",
+        "events_url": "http://www.meetup.com/opensavannah/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Savannah/past_events",
+        "city": "Savannah, GA",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/opensavannah",
+          "twitter": "@opensavannah"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars1.githubusercontent.com/u/23719460?v=4",
+        "last_updated": 1564499523,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Savannah/attendance",
+        "projects_list_url": "https://github.com/opensavannah",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Savannah/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "https://opensavannah.org",
+        "longitude": -81.0998,
+        "member_count": 441,
+        "name": "Open Savannah"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-San-Francisco",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-San-Francisco",
+        "id": "Code-for-San-Francisco",
+        "rss": "http://codeforsanfrancisco.org/blog/",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 37.7749,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-San-Francisco/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-San-Francisco/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-San-Francisco/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-San-Francisco/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-San-Francisco/past_events",
+        "city": "San Francisco, CA",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codeforsanfrancisco/",
+          "twitter": "@SFbrigade"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499027,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-San-Francisco/attendance",
+        "projects_list_url": "https://docs.google.com/spreadsheet/pub?key=0ArHmv-6U1drqdDVGZzdiMVlkMnRJLXp2cm1ZTUhMOFE&output=csv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-San-Francisco/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codeforsanfrancisco.org/",
+        "longitude": -122.4194,
+        "member_count": 5703,
+        "name": "Code for San Francisco"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -111.8904308,
+          40.7670126
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Utah",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Utah",
+        "id": "Code-for-Utah",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974453",
+        "marker-symbol": "town-hall",
+        "started_on": "2019-01-29",
+        "latitude": 40.7670126,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Utah/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Utah/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Utah/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Utah/upcoming_events",
+        "events_url": "https://www.meetup.com/Open-Salt-Lake/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Utah/past_events",
+        "city": "Salt Lake City, UT",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/opensaltlakeutah/",
+          "twitter": "@OpenSaltLake"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/2808202?v=4",
+        "last_updated": 1564500406,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Utah/attendance",
+        "projects_list_url": "https://github.com/opensaltlake",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Utah/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "https://opensaltlake.org/",
+        "longitude": -111.8904308,
+        "member_count": 419,
+        "name": "Code for Utah"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.5342881,
+          39.1670396
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Bloomington",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Bloomington",
+        "id": "Code-for-Bloomington",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735582955",
+        "marker-symbol": "town-hall",
+        "started_on": "2019-01-29",
+        "latitude": 39.1670396,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Bloomington/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Bloomington/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Bloomington/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Bloomington/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Bloomington-BMG-Hack/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Bloomington/past_events",
+        "city": "Bloomington, IN",
+        "social_profiles": {
+          "Google": "https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564414860,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Bloomington/attendance",
+        "projects_list_url": "https://github.com/BMGhack/civic-hacking",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Bloomington/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "https://bmghack.github.io/",
+        "longitude": -86.5342881,
+        "member_count": 51,
+        "name": "Code for Bloomington"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -95.9928,
+          36.154
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Tulsa",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Tulsa",
+        "id": "Code-for-Tulsa",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097683340",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 36.154,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Tulsa/issues",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Tulsa/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Tulsa/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Tulsa/upcoming_events",
+        "events_url": "http://www.meetup.com/Code-for-Tulsa/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Tulsa/past_events",
+        "city": "Tulsa, OK",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/CodeForTulsa/",
+          "twitter": "@CodeForTulsa"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/4308649?v=4",
+        "last_updated": 1564499178,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Tulsa/attendance",
+        "projects_list_url": "https://github.com/codefortulsa",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Tulsa/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Fiscally Sponsored Brigade",
+          "Official"
+        ],
+        "website": "http://codefortulsa.org/",
+        "longitude": -95.9928,
+        "member_count": 327,
+        "name": "Code for Tulsa"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.8986,
+          35.994
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Durham",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Durham",
+        "id": "Code-for-Durham",
+        "rss": "http://codefordurham.com/project-updates?format=rss",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 35.994,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Durham/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Durham/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Durham/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Durham/upcoming_events",
+        "events_url": "http://www.meetup.com/Triangle-Code-for-America/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Durham/past_events",
+        "city": "Durham, NC",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codefordurham/",
+          "twitter": "@codefordurham"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564414381,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Durham/attendance",
+        "projects_list_url": "http://codefordurham.com/projects.csv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Durham/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codefordurham.com/",
+        "longitude": -78.8986,
+        "member_count": 1751,
+        "name": "Code for Durham"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -94.5781416,
+          39.100105
+        ],
+        "type": "Point"
+      },
+      "id": "KC-Digital-Drive",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/KC-Digital-Drive",
+        "id": "KC-Digital-Drive",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2019-01-29",
+        "latitude": 39.100105,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/KC-Digital-Drive/issues",
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/KC-Digital-Drive/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/KC-Digital-Drive/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/KC-Digital-Drive/upcoming_events",
+        "events_url": "https://www.meetup.com/KCBrigade/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/KC-Digital-Drive/past_events",
+        "city": "Kansas City, MO",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codeforkc",
+          "twitter": "@codeforkc"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars1.githubusercontent.com/u/5272305?v=4",
+        "last_updated": 1564498873,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/KC-Digital-Drive/attendance",
+        "projects_list_url": "https://github.com/codeforkansascity",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/KC-Digital-Drive/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Partner Brigade",
+          "Official"
+        ],
+        "website": "http://codeforokc.org/",
+        "longitude": -94.5781416,
+        "member_count": 1629,
+        "name": "KC Digital Drive"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.2427669,
+          34.0536834
+        ],
+        "type": "Point"
+      },
+      "id": "Hack-for-LA-Brigade",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Hack-for-LA-Brigade",
+        "id": "Hack-for-LA-Brigade",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2019-03-05",
+        "latitude": 34.0536834,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Hack-for-LA-Brigade/issues",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Hack-for-LA-Brigade/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Hack-for-LA-Brigade/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Hack-for-LA-Brigade/upcoming_events",
+        "events_url": "https://www.meetup.com/hackforla/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Hack-for-LA-Brigade/past_events",
+        "city": "Los Angeles, CA",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/hackforla",
+          "twitter": "@hackforLA"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars3.githubusercontent.com/u/11635254?v=4",
+        "last_updated": 1564499476,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Hack-for-LA-Brigade/attendance",
+        "projects_list_url": "https://github.com/hackforla",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Hack-for-LA-Brigade/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Fiscally Sponsored Brigade",
+          "Official"
+        ],
+        "website": "http://www.hackforla.org/",
+        "longitude": -118.2427669,
+        "member_count": 4140,
+        "name": "Hack for LA Brigade"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -78.6386,
+          35.7721
+        ],
+        "type": "Point"
+      },
+      "id": "Open-Raleigh-Brigade",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Open-Raleigh-Brigade",
+        "id": "Open-Raleigh-Brigade",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097681190",
+        "marker-symbol": "town-hall",
+        "started_on": "2018-02-13",
+        "latitude": 35.7721,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Open-Raleigh-Brigade/issues",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Open-Raleigh-Brigade/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Open-Raleigh-Brigade/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Open-Raleigh-Brigade/upcoming_events",
+        "events_url": "http://www.meetup.com/Triangle-Code-for-America/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Open-Raleigh-Brigade/past_events",
+        "city": "Raleigh, NC",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/CityCampRal/",
+          "twitter": "@codeforraleigh"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499388,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Open-Raleigh-Brigade/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Open-Raleigh-Brigade/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Fiscally Sponsored Brigade",
+          "Official"
+        ],
+        "website": "http://www.codeforraleigh.com/",
+        "longitude": -78.6386,
+        "member_count": 1752,
+        "name": "Open Raleigh Brigade"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.7947,
+          36.069
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Greensboro",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Greensboro",
+        "id": "Code-for-Greensboro",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775468197",
+        "marker-symbol": "town-hall",
+        "started_on": "2019-05-10",
+        "latitude": 36.069,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Greensboro/issues",
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Greensboro/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Greensboro/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Greensboro/upcoming_events",
+        "events_url": "http://www.meetup.com/Code-for-Greensboro/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Greensboro/past_events",
+        "city": "Greensboro, NC",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codeforgreensboro/",
+          "twitter": "@CodeForGSO"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars0.githubusercontent.com/u/11655503?v=4",
+        "last_updated": 1564500327,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Greensboro/attendance",
+        "projects_list_url": "https://github.com/codeforgso",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Greensboro/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Partner Brigade",
+          "Official"
+        ],
+        "website": "http://codeforgreensboro.org/",
+        "longitude": -79.7947,
+        "member_count": 1204,
+        "name": "Code for Greensboro"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.4106,
+          37.2263
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-New-River-Valley",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-New-River-Valley",
+        "id": "Code-for-New-River-Valley",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037973677",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 37.2263,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-New-River-Valley/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-New-River-Valley/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-New-River-Valley/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-New-River-Valley/upcoming_events",
+        "events_url": "https://www.meetup.com/CodeForNRV",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-New-River-Valley/past_events",
+        "city": "Blacksburg, VA",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codefornrv/",
+          "twitter": "@codefornrv"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars1.githubusercontent.com/u/10054894?v=4",
+        "last_updated": 1564413850,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-New-River-Valley/attendance",
+        "projects_list_url": "https://github.com/CodeforNRV",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-New-River-Valley/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codefornrv.org/",
+        "longitude": -80.4106,
+        "member_count": 235,
+        "name": "Code for New River Valley"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -81.379236,
+          28.538335
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Orlando",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Orlando",
+        "id": "Code-for-Orlando",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037974326",
+        "marker-symbol": "town-hall",
+        "started_on": "2016-01-27",
+        "latitude": 28.538335,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Orlando/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Orlando/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Orlando/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Orlando/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-For-Orlando/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Orlando/past_events",
+        "city": "Orlando, FL",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codefororlando/",
+          "twitter": "@codefororlando"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars1.githubusercontent.com/u/5225505?v=4",
+        "last_updated": 1564413658,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Orlando/attendance",
+        "projects_list_url": "https://github.com/cforlando",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Orlando/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://www.codefororlando.com",
+        "longitude": -81.379236,
+        "member_count": 2157,
+        "name": "Code for Orlando"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.454391,
+          43.008663
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-New-Hampshire",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-New-Hampshire",
+        "id": "Code-for-New-Hampshire",
+        "rss": "http://www.codefornh.org/feed.xml",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-12-10",
+        "latitude": 43.008663,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-New-Hampshire/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-New-Hampshire/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-New-Hampshire/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-New-Hampshire/upcoming_events",
+        "events_url": "http://www.meetup.com/codefornh/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-New-Hampshire/past_events",
+        "city": "Manchester, NH",
+        "social_profiles": null,
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/15762830?v=4",
+        "last_updated": 1564500296,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-New-Hampshire/attendance",
+        "projects_list_url": "https://github.com/codefornh",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-New-Hampshire/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://www.codefornh.org/",
+        "longitude": -71.454391,
+        "member_count": 139,
+        "name": "Code for New Hampshire"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.1742,
+          40.732
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Newark",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Newark",
+        "id": "Code-for-Newark",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15201841917646224264",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 40.732,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Newark/issues",
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Newark/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Newark/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Newark/upcoming_events",
+        "events_url": "http://www.meetup.com/Code-for-Newark/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Newark/past_events",
+        "city": "Newark, NJ",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codefornewark/",
+          "twitter": "@codefornewark"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/17065281?v=4",
+        "last_updated": 1564500317,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Newark/attendance",
+        "projects_list_url": "https://github.com/Code4Newark",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Newark/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Partner Brigade",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -74.1742,
+        "member_count": 1067,
+        "name": "Code for Newark"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.2121,
+          44.4759
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-BTV",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-BTV",
+        "id": "Code-for-BTV",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/1444738145735583527",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 44.4759,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-BTV/issues",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-BTV/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-BTV/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-BTV/upcoming_events",
+        "events_url": "http://www.meetup.com/CodeForBTV/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-BTV/past_events",
+        "city": "Burlington, VT",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/CodeForBtv/",
+          "twitter": "@CodeForBTV"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/3893216?v=4",
+        "last_updated": 1564412485,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-BTV/attendance",
+        "projects_list_url": "https://github.com/codeforbtv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-BTV/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Fiscally Sponsored Brigade",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -73.2121,
+        "member_count": 649,
+        "name": "Code for BTV"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.1638,
+          39.9523
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Philly",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Philly",
+        "id": "Code-for-Philly",
+        "rss": "http://codeforphilly.org/project-updates?format=rss",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 39.9523,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Philly/issues",
+        "type": "Brigade, Code for America, Code for America Fiscally Sponsored Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Philly/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Philly/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Philly/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Philly/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Philly/past_events",
+        "city": "Philadelphia, PA",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codeforphilly/",
+          "twitter": "@codeforphilly"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564500168,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Philly/attendance",
+        "projects_list_url": "http://codeforphilly.org/projects.csv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Philly/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Fiscally Sponsored Brigade",
+          "Official"
+        ],
+        "website": "https://codeforphilly.org",
+        "longitude": -75.1638,
+        "member_count": 4041,
+        "name": "Code for Philly"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.1474244,
+          43.0481221
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Syracuse",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Syracuse",
+        "id": "Code-for-Syracuse",
+        "rss": null,
+        "marker-symbol": "town-hall",
+        "started_on": "2019-06-28",
+        "latitude": 43.0481221,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Syracuse/issues",
+        "type": null,
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Syracuse/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Syracuse/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Syracuse/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Syracuse/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Syracuse/past_events",
+        "city": "Syracuse, NY",
+        "social_profiles": {
+          "twitter": "@CodeForSyracuse"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499393,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Syracuse/attendance",
+        "projects_list_url": null,
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Syracuse/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": null,
+        "longitude": -76.1474244,
+        "member_count": 38,
+        "name": "Code for Syracuse"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.077055,
+          29.951992
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-New-Orleans",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-New-Orleans",
+        "id": "Code-for-New-Orleans",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/15266640778775467375",
+        "marker-symbol": "town-hall",
+        "started_on": "2016-06-07",
+        "latitude": 29.951992,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-New-Orleans/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-New-Orleans/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-New-Orleans/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-New-Orleans/upcoming_events",
+        "events_url": "http://www.meetup.com/Code-For-New-Orleans/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-New-Orleans/past_events",
+        "city": "New Orleans, LA",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codefornola",
+          "twitter": "@codefornola"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/13694692?v=4",
+        "last_updated": 1564500133,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-New-Orleans/attendance",
+        "projects_list_url": "https://github.com/codefornola",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-New-Orleans/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://codeforneworleans.org/",
+        "longitude": -90.077055,
+        "member_count": 502,
+        "name": "Code for New Orleans"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.4593,
+          27.9465
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Tampa-Bay",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Tampa-Bay",
+        "id": "Code-for-Tampa-Bay",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/12249826946855577810",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 27.9465,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Tampa-Bay/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Tampa-Bay/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Tampa-Bay/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Tampa-Bay/upcoming_events",
+        "events_url": "http://www.meetup.com/Code-for-Tampa-Bay-Brigade/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Tampa-Bay/past_events",
+        "city": "Tampa, FL",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/CodeforTampaBay",
+          "twitter": "@CodeForTampaBay"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars1.githubusercontent.com/u/9374504?v=4",
+        "last_updated": 1564500382,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Tampa-Bay/attendance",
+        "projects_list_url": "https://github.com/code-for-tb",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Tampa-Bay/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://www.codefortampabay.org/",
+        "longitude": -82.4593,
+        "member_count": 987,
+        "name": "Code for Tampa Bay"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -95.3698028,
+          29.7604267
+        ],
+        "type": "Point"
+      },
+      "id": "Sketch-City-(Houston)",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Sketch-City-(Houston)",
+        "id": "Sketch-City-(Houston)",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/16695061524097680402",
+        "marker-symbol": "town-hall",
+        "started_on": "2017-10-22",
+        "latitude": 29.7604267,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Sketch-City-(Houston)/issues",
+        "type": "Brigade, Code for America, Code for America Partner Brigade, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Sketch-City-(Houston)/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Sketch-City-(Houston)/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Sketch-City-(Houston)/upcoming_events",
+        "events_url": "https://www.meetup.com/sketchcity/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Sketch-City-(Houston)/past_events",
+        "city": "Houston, TX",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/groups/openhoustongov/"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": "https://avatars2.githubusercontent.com/u/7483869?v=4",
+        "last_updated": 1564499968,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Sketch-City-(Houston)/attendance",
+        "projects_list_url": "https://github.com/sketch-city",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Sketch-City-(Houston)/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Code for America Partner Brigade",
+          "Official"
+        ],
+        "website": "http://sketchcity.org/",
+        "longitude": -95.3698028,
+        "member_count": 3495,
+        "name": "Sketch City (Houston)"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -71.0598,
+          42.3584
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Boston",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Boston",
+        "id": "Code-for-Boston",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7301583704927493688",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 42.3584,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Boston/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Boston/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Boston/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Boston/upcoming_events",
+        "events_url": "https://www.meetup.com/Code-for-Boston/",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Boston/past_events",
+        "city": "Boston, MA",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/codeforboston/",
+          "twitter": "@codeforboston"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564500013,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Boston/attendance",
+        "projects_list_url": "https://docs.google.com/spreadsheets/d/1kdBUuPDLEyL5ZYZ2ZGcSa1VwN6UAW82bA_5ZWI70P5I/export?format=csv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Boston/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://www.codeforboston.org",
+        "longitude": -71.0598,
+        "member_count": 5717,
+        "name": "Code for Boston"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.2922,
+          36.847
+        ],
+        "type": "Point"
+      },
+      "id": "Code-for-Hampton-Roads",
+      "type": "Feature",
+      "properties": {
+        "api_url": "http://api.codeforamerica.org/api/organizations/Code-for-Hampton-Roads",
+        "id": "Code-for-Hampton-Roads",
+        "rss": "https://google.com/alerts/feeds/06912685966400056337/7566160790037973802",
+        "marker-symbol": "town-hall",
+        "started_on": "2015-11-26",
+        "latitude": 36.847,
+        "all_issues": "http://api.codeforamerica.org/api/organizations/Code-for-Hampton-Roads/issues",
+        "type": "Brigade, Code for America, Official",
+        "all_events": "http://api.codeforamerica.org/api/organizations/Code-for-Hampton-Roads/events",
+        "all_stories": "http://api.codeforamerica.org/api/organizations/Code-for-Hampton-Roads/stories",
+        "upcoming_events": "http://api.codeforamerica.org/api/organizations/Code-for-Hampton-Roads/upcoming_events",
+        "events_url": "http://www.meetup.com/Code4HR",
+        "past_events": "http://api.codeforamerica.org/api/organizations/Code-for-Hampton-Roads/past_events",
+        "city": "Hampton Roads, VA (Region)",
+        "social_profiles": {
+          "facebook": "https://www.facebook.com/code4hr",
+          "twitter": "@code4hr"
+        },
+        "marker-color": "#aa1c3a",
+        "logo_url": null,
+        "last_updated": 1564499320,
+        "all_attendance": "http://api.codeforamerica.org/api/organizations/Code-for-Hampton-Roads/attendance",
+        "projects_list_url": "https://docs.google.com/spreadsheets/d/1Bs2ulkOn6stjM4lp81f3KR_S22G6bvmOATVAioxE_qg/export?format=csv",
+        "all_projects": "http://api.codeforamerica.org/api/organizations/Code-for-Hampton-Roads/projects",
+        "tags": [
+          "Brigade",
+          "Code for America",
+          "Official"
+        ],
+        "website": "http://Code4HR.org",
+        "longitude": -76.2922,
+        "member_count": 481,
+        "name": "Code for Hampton Roads"
+      }
+    }
+  ]
+}
